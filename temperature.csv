@@ -1,0 +1,366 @@
+Day,High Temperature,Low Temperature,Weather,Wind Direction,Wind Speed,Air Quality,Air Quality Info,Air Quality Level
+2018-01-01,3℃,-6℃,Sunny~Cloudy,Northeast Wind,1-2,59,Good,2
+2018-01-02,2℃,-5℃,Overcast~Cloudy,Northeast Wind,1-2,49,Excellent,1
+2018-01-03,2℃,-5℃,Cloudy,North Wind,1-2,28,Excellent,1
+2018-01-04,0℃,-8℃,Overcast,Northeast Wind,1-2,28,Excellent,1
+2018-01-05,3℃,-6℃,Cloudy~Sunny,Northwest Wind,1-2,50,Excellent,1
+2018-01-06,2℃,-5℃,Cloudy~Overcast,Southwest Wind,1-2,32,Excellent,1
+2018-01-07,2℃,-4℃,Overcast~Cloudy,Southwest Wind,1-2,59,Good,2
+2018-01-08,2℃,-6℃,Sunny,Northwest Wind,4-5,50,Excellent,1
+2018-01-09,1℃,-8℃,Sunny,Northwest Wind,3-4,34,Excellent,1
+2018-01-10,-2℃,-10℃,Sunny,Northwest Wind,1-2,26,Excellent,1
+2018-01-11,-1℃,-10℃,Sunny,North Wind,1-2,24,Excellent,1
+2018-01-12,2℃,-8℃,Sunny,Southwest Wind,1-2,75,Good,2
+2018-01-13,3℃,-7℃,Cloudy,South Wind,1-2,126,Light Pollution,3
+2018-01-14,6℃,-5℃,Sunny~Cloudy,Northwest Wind,1-2,187,Moderate Pollution,4
+2018-01-15,2℃,-5℃,Overcast,Southeast Wind,1-2,47,Excellent,1
+2018-01-16,4℃,-5℃,Cloudy,South Wind,1-2,112,Light Pollution,3
+2018-01-17,6℃,-7℃,Cloudy~Sunny,Northwest Wind,1-2,82,Good,2
+2018-01-18,5℃,-6℃,Sunny,Southwest Wind,1-2,80,Good,2
+2018-01-19,7℃,-4℃,Sunny,South Wind,1-2,115,Light Pollution,3
+2018-01-20,3℃,-6℃,Sunny~Cloudy,East Wind,1-2,64,Good,2
+2018-01-21,0℃,-5℃,Overcast~Light snow,Northeast Wind,1-2,63,Good,2
+2018-01-22,-3℃,-10℃,Light snow~Cloudy,East Wind,1-2,47,Excellent,1
+2018-01-23,-4℃,-12℃,Sunny,Northwest Wind,3-4,31,Excellent,1
+2018-01-24,-4℃,-11℃,Sunny,Southwest Wind,1-2,34,Excellent,1
+2018-01-25,-3℃,-11℃,Cloudy,Northeast Wind,1-2,27,Excellent,1
+2018-01-26,-3℃,-10℃,Sunny~Cloudy,South Wind,1-2,39,Excellent,1
+2018-01-27,-1℃,-9℃,Cloudy,South Wind,1-2,105,Light Pollution,3
+2018-01-28,-1℃,-9℃,Sunny,Northwest Wind,3-4,55,Good,2
+2018-01-29,1℃,-8℃,Sunny,Northwest Wind,1-2,57,Good,2
+2018-01-30,4℃,-7℃,Sunny,Northwest Wind,1-2,36,Excellent,1
+2018-01-31,3℃,-8℃,Sunny,Southwest Wind,1-2,60,Good,2
+2018-02-01,4℃,-7℃,Cloudy,North Wind,1-2,68,Good,2
+2018-02-02,-1℃,-9℃,Sunny,North Wind,3-4,32,Excellent,1
+2018-02-03,0℃,-9℃,Cloudy,North Wind,1-2,24,Excellent,1
+2018-02-04,1℃,-8℃,Sunny,Southwest Wind,1-2,36,Excellent,1
+2018-02-05,0℃,-10℃,Sunny,North Wind,3-4,24,Excellent,1
+2018-02-06,3℃,-7℃,Cloudy~Overcast,Southwest Wind,1-2,56,Good,2
+2018-02-07,2℃,-10℃,Cloudy~Sunny,North Wind,4-5,63,Good,2
+2018-02-08,3℃,-7℃,Cloudy,South Wind,3-4,67,Good,2
+2018-02-09,4℃,-9℃,Cloudy,Northwest Wind,4-5,93,Good,2
+2018-02-10,1℃,-9℃,Sunny,Northwest Wind,3-4,39,Excellent,1
+2018-02-11,0℃,-9℃,Sunny,Northwest Wind,4-5,62,Good,2
+2018-02-12,5℃,-7℃,Sunny,Northwest Wind,1-2,53,Good,2
+2018-02-13,8℃,-4℃,Sunny~Cloudy,West Wind,1-2,78,Good,2
+2018-02-14,6℃,-6℃,Cloudy,North Wind,1-2,42,Excellent,1
+2018-02-15,5℃,-5℃,Cloudy,Southwest Wind,1-2,48,Excellent,1
+2018-02-16,8℃,-5℃,Sunny~Cloudy,Southwest Wind,1-2,118,Light Pollution,3
+2018-02-17,5℃,-4℃,Cloudy~Overcast,South Wind,1-2,103,Light Pollution,3
+2018-02-18,8℃,-3℃,Cloudy,South Wind,1-2,148,Light Pollution,3
+2018-02-19,6℃,-3℃,Cloudy,South Wind,1-2,183,Moderate Pollution,4
+2018-02-20,5℃,-5℃,Sunny,North Wind,1-2,76,Good,2
+2018-02-21,8℃,-4℃,Sunny,South Wind,1-2,53,Good,2
+2018-02-22,9℃,-4℃,Cloudy,Southwest Wind,1-2,42,Excellent,1
+2018-02-23,10℃,-4℃,Cloudy,Northeast Wind,1-2,45,Excellent,1
+2018-02-24,3℃,-6℃,Cloudy~Sunny,South Wind,1-2,66,Good,2
+2018-02-25,6℃,-4℃,Cloudy,Southwest Wind,1-2,73,Good,2
+2018-02-26,12℃,-1℃,Sunny~Cloudy,Southwest Wind,1-2,157,Moderate Pollution,4
+2018-02-27,7℃,0℃,Overcast,East Wind,1-2,220,Heavy Pollution,5
+2018-02-28,9℃,-2℃,Cloudy~Sunny,Southwest Wind,3-4,139,Light Pollution,3
+2018-03-01,8℃,-3℃,Cloudy,Southwest Wind,1-2,46,Excellent,1
+2018-03-02,9℃,-1℃,Sunny~Cloudy,North Wind,1-2,95,Good,2
+2018-03-03,13℃,3℃,Cloudy~Overcast,North Wind,1-2,214,Heavy Pollution,5
+2018-03-04,7℃,-2℃,Overcast~Cloudy,Southeast Wind,1-2,144,Light Pollution,3
+2018-03-05,8℃,-3℃,Sunny,South Wind,1-2,94,Good,2
+2018-03-06,6℃,-3℃,Cloudy~Overcast,Southeast Wind,3-4,67,Good,2
+2018-03-07,6℃,-2℃,Overcast~Cloudy,North Wind,1-2,65,Good,2
+2018-03-08,8℃,-4℃,Sunny,Northeast Wind,1-2,62,Good,2
+2018-03-09,10℃,-2℃,Cloudy,Southwest Wind,1-2,132,Light Pollution,3
+2018-03-10,14℃,-2℃,Sunny,Southeast Wind,1-2,171,Moderate Pollution,4
+2018-03-11,11℃,0℃,Cloudy,South Wind,1-2,81,Good,2
+2018-03-12,15℃,3℃,Cloudy~Sunny,South Wind,1-2,174,Moderate Pollution,4
+2018-03-13,17℃,5℃,Sunny~Cloudy,South Wind,1-2,287,Heavy Pollution,5
+2018-03-14,15℃,6℃,Cloudy~Overcast,Northeast Wind,1-2,293,Heavy Pollution,5
+2018-03-15,12℃,-1℃,Cloudy~Sunny,Northeast Wind,3-4,70,Good,2
+2018-03-16,10℃,-1℃,Cloudy,South Wind,1-2,58,Good,2
+2018-03-17,4℃,0℃,Light rain~overcast,South Wind,1-2,81,Good,2
+2018-03-18,13℃,1℃,Cloudy~Sunny,Southwest Wind,1-2,134,Light Pollution,3
+2018-03-19,13℃,2℃,Cloudy,East Wind,1-2,107,Light Pollution,3
+2018-03-20,10℃,-2℃,Cloudy,South Wind,1-2,41,Excellent,1
+2018-03-21,11℃,1℃,Cloudy,Southwest Wind,1-2,76,Good,2
+2018-03-22,17℃,4℃,Sunny~Cloudy,Southwest Wind,1-2,112,Light Pollution,3
+2018-03-23,18℃,5℃,Cloudy,North Wind,1-2,146,Light Pollution,3
+2018-03-24,22℃,5℃,Sunny,Southwest Wind,1-2,119,Light Pollution,3
+2018-03-25,24℃,7℃,Sunny,South Wind,1-2,78,Good,2
+2018-03-26,25℃,7℃,Cloudy,Southwest Wind,1-2,151,Moderate Pollution,4
+2018-03-27,27℃,11℃,Sunny,South Wind,1-2,243,Heavy Pollution,5
+2018-03-28,25℃,9℃,Cloudy~Sunny,East Wind,1-2,387,Severe Pollution,6
+2018-03-29,19℃,7℃,Sunny,South Wind,1-2,119,Light Pollution,3
+2018-03-30,18℃,8℃,Cloudy,South Wind,1-2,68,Good,2
+2018-03-31,23℃,9℃,Cloudy~Sunny,South Wind,1-2,125,Light Pollution,3
+2018-04-01,25℃,11℃,Sunny~Cloudy,South Wind,1-2,218,Heavy Pollution,5
+2018-04-02,26℃,11℃,Cloudy,North Wind,1-2,287,Heavy Pollution,5
+2018-04-03,14℃,6℃,Cloudy~Overcast,Northeast Wind,3-4,80,Good,2
+2018-04-04,10℃,1℃,Light rain~Rain snow mixture,Northeast Wind,1-2,35,Excellent,1
+2018-04-05,10℃,3℃,Cloudy,Southwest Wind,1-2,73,Good,2
+2018-04-06,11℃,4℃,Cloudy~Sunny,North Wind,4-5,86,Good,2
+2018-04-07,12℃,2℃,Cloudy~Sunny,Northwest Wind,3-4,42,Excellent,1
+2018-04-08,18℃,5℃,Sunny,Southwest Wind,1-2,68,Good,2
+2018-04-09,20℃,7℃,Sunny~Cloudy,South Wind,1-2,111,Light Pollution,3
+2018-04-10,24℃,8℃,Cloudy~Sunny,Northwest Wind,4-5,101,Light Pollution,3
+2018-04-11,23℃,9℃,Sunny,Southwest Wind,3-4,48,Excellent,1
+2018-04-12,22℃,7℃,Cloudy~Light rain,Southeast Wind,1-2,79,Good,2
+2018-04-13,11℃,6℃,Light rain~Cloudy,Southeast Wind,1-2,64,Good,2
+2018-04-14,19℃,5℃,Cloudy~Sunny,North Wind,4-5,122,Light Pollution,3
+2018-04-15,21℃,8℃,Sunny,Southwest Wind,1-2,72,Good,2
+2018-04-16,23℃,12℃,Sunny~Cloudy,South Wind,1-2,103,Light Pollution,3
+2018-04-17,25℃,12℃,Cloudy~Sunny,South Wind,1-2,145,Light Pollution,3
+2018-04-18,27℃,14℃,Cloudy~Sunny,Southwest Wind,3-4,147,Light Pollution,3
+2018-04-19,26℃,13℃,Cloudy,Southeast Wind,4-5,170,Moderate Pollution,4
+2018-04-20,28℃,14℃,Cloudy~Light rain,South Wind,4-5,164,Moderate Pollution,4
+2018-04-21,16℃,12℃,Heavy rain~light rain,Northeast Wind,3-4,105,Light Pollution,3
+2018-04-22,16℃,12℃,Overcast~Cloudy,Northeast Wind,3-4,27,Excellent,1
+2018-04-23,19℃,9℃,Cloudy,Northeast Wind,3-4,34,Excellent,1
+2018-04-24,23℃,10℃,Sunny,North Wind,3-4,41,Excellent,1
+2018-04-25,25℃,11℃,Sunny,Southwest Wind,3-4,55,Good,2
+2018-04-26,26℃,12℃,Cloudy~Sunny,Northwest Wind,1-2,117,Light Pollution,3
+2018-04-27,25℃,13℃,Sunny,Southwest Wind,3-4,112,Light Pollution,3
+2018-04-28,27℃,17℃,Sunny,Southwest Wind,3-4,125,Light Pollution,3
+2018-04-29,30℃,16℃,Cloudy,South Wind,3-4,193,Moderate Pollution,4
+2018-04-30,24℃,14℃,Cloudy,South Wind,3-4,62,Good,2
+2018-05-01,25℃,13℃,Overcast,Northeast Wind,3-4,121,Light Pollution,3
+2018-05-02,25℃,13℃,Cloudy~Sunny,North Wind,3-4,44,Excellent,1
+2018-05-03,24℃,12℃,Sunny,North Wind,1-2,48,Excellent,1
+2018-05-04,27℃,16℃,Sunny~Cloudy,Southwest Wind,1-2,86,Good,2
+2018-05-05,25℃,13℃,Cloudy,North Wind,3-4,177,Moderate Pollution,4
+2018-05-06,28℃,14℃,Sunny,Southwest Wind,1-2,126,Light Pollution,3
+2018-05-07,28℃,13℃,Sunny,South Wind,3-4,100,Good,2
+2018-05-08,27℃,13℃,Sunny,Southeast Wind,3-4,64,Good,2
+2018-05-09,29℃,17℃,Sunny~Cloudy,Southwest Wind,3-4,79,Good,2
+2018-05-10,26℃,18℃,Cloudy,South Wind,3-4,118,Light Pollution,3
+2018-05-11,24℃,15℃,Overcast~Cloudy,East Wind,1-2,106,Light Pollution,3
+2018-05-12,28℃,16℃,Light rain,Southeast Wind,3-4,186,Moderate Pollution,4
+2018-05-13,30℃,17℃,Sunny,South Wind,1-2,68,Good,2
+2018-05-14,34℃,22℃,Sunny~Cloudy,South Wind,3-4,158,Moderate Pollution,4
+2018-05-15,31℃,22℃,Light rain,South Wind,1-2,93,Good,2
+2018-05-16,29℃,21℃,Cloudy~Light rain,East Wind,1-2,142,Light Pollution,3
+2018-05-17,25℃,19℃,Light rain~Cloudy,North Wind,1-2,70,Good,2
+2018-05-18,28℃,16℃,Cloudy~Sunny,South Wind,1-2,49,Excellent,1
+2018-05-19,27℃,16℃,Cloudy~Light rain,South Wind,1-2,69,Good,2
+2018-05-20,21℃,16℃,Overcast~Light rain,East Wind,1-2,54,Good,2
+2018-05-21,18℃,14℃,Light rain,Southeast Wind,1-2,84,Good,2
+2018-05-22,25℃,10℃,Cloudy~Sunny,West Wind,4-5,103,Light Pollution,3
+2018-05-23,29℃,15℃,Sunny,Southwest Wind,3-4,153,Moderate Pollution,4
+2018-05-24,31℃,17℃,Sunny,South Wind,3-4,99,Good,2
+2018-05-25,31℃,19℃,Cloudy,Southwest Wind,1-2,98,Good,2
+2018-05-26,30℃,17℃,Light rain~Cloudy,Southwest Wind,3-4,143,Light Pollution,3
+2018-05-27,32℃,17℃,Cloudy,Southwest Wind,3-4,89,Good,2
+2018-05-28,30℃,16℃,Sunny,Northwest Wind,4-5,178,Moderate Pollution,4
+2018-05-29,31℃,16℃,Cloudy,Northwest Wind,1-2,41,Excellent,1
+2018-05-30,33℃,18℃,Sunny,West Wind,1-2,46,Excellent,1
+2018-05-31,35℃,19℃,Sunny,South Wind,1-2,79,Good,2
+2018-06-01,36℃,21℃,Sunny,Southwest Wind,3-4,72,Good,2
+2018-06-02,35℃,21℃,Cloudy,South Wind,3-4,98,Good,2
+2018-06-03,32℃,19℃,Cloudy,North Wind,1-2,92,Good,2
+2018-06-04,35℃,20℃,Sunny,Southwest Wind,3-4,69,Good,2
+2018-06-05,38℃,25℃,Cloudy,Southwest Wind,4-5,94,Good,2
+2018-06-06,36℃,25℃,Cloudy,East Wind,1-2,102,Light Pollution,3
+2018-06-07,33℃,22℃,Cloudy,Southwest Wind,1-2,60,Good,2
+2018-06-08,32℃,19℃,Cloudy~Thundershower,Southwest Wind,1-2,43,Excellent,1
+2018-06-09,23℃,17℃,Light rain,North Wind,1-2,45,Excellent,1
+2018-06-10,27℃,17℃,Cloudy,Southeast Wind,1-2,51,Good,2
+2018-06-11,29℃,19℃,Cloudy,Southwest Wind,3-4,85,Good,2
+2018-06-12,32℃,19℃,Cloudy~Thundershower,Southeast Wind,1-2,116,Light Pollution,3
+2018-06-13,28℃,19℃,Thundershower~Cloudy,Northeast Wind,1-2,73,Good,2
+2018-06-14,31℃,20℃,Cloudy,South Wind,1-2,54,Good,2
+2018-06-15,32℃,20℃,Cloudy,Southeast Wind,3-4,117,Light Pollution,3
+2018-06-16,31℃,21℃,Cloudy~Thundershower,South Wind,1-2,103,Light Pollution,3
+2018-06-17,31℃,22℃,Overcast~Thundershower,South Wind,1-2,71,Good,2
+2018-06-18,30℃,21℃,Thundershower,Southwest Wind,1-2,112,Light Pollution,3
+2018-06-19,32℃,20℃,Cloudy~Sunny,Northeast Wind,1-2,81,Good,2
+2018-06-20,35℃,21℃,Sunny,South Wind,1-2,71,Good,2
+2018-06-21,35℃,24℃,Cloudy,South Wind,1-2,73,Good,2
+2018-06-22,30℃,21℃,Thundershower~Cloudy,Southeast Wind,1-2,83,Good,2
+2018-06-23,35℃,24℃,Cloudy~Sunny,South Wind,1-2,104,Light Pollution,3
+2018-06-24,36℃,25℃,Cloudy,South Wind,3-4,98,Good,2
+2018-06-25,34℃,24℃,Thundershower,South Wind,1-2,101,Light Pollution,3
+2018-06-26,36℃,25℃,Sunny,Southwest Wind,3-4,174,Moderate Pollution,4
+2018-06-27,37℃,25℃,Cloudy,Northeast Wind,3-4,54,Good,2
+2018-06-28,35℃,24℃,Cloudy~Sunny,North Wind,1-2,33,Excellent,1
+2018-06-29,37℃,25℃,Sunny,South Wind,1-2,59,Good,2
+2018-06-30,37℃,23℃,Thundershower~Cloudy,Southeast Wind,3-4,81,Good,2
+2018-07-01,35℃,23℃,Sunny,Southeast Wind,1-2,68,Good,2
+2018-07-02,32℃,23℃,Cloudy~Thundershower,Southeast Wind,3-4,66,Good,2
+2018-07-03,32℃,24℃,Thundershower~Cloudy,Southeast Wind,1-2,76,Good,2
+2018-07-04,35℃,26℃,Cloudy,Southwest Wind,1-2,96,Good,2
+2018-07-05,37℃,24℃,Cloudy~Thundershower,Southeast Wind,1-2,104,Light Pollution,3
+2018-07-06,33℃,23℃,Cloudy~Thundershower,Southeast Wind,3-4,71,Good,2
+2018-07-07,31℃,23℃,Thundershower,Southeast Wind,1-2,72,Good,2
+2018-07-08,30℃,23℃,Thundershower,South Wind,1-2,73,Good,2
+2018-07-09,30℃,22℃,Thundershower~Cloudy,Southeast Wind,1-2,106,Light Pollution,3
+2018-07-10,30℃,22℃,Cloudy~Thundershower,South Wind,1-2,48,Excellent,1
+2018-07-11,25℃,22℃,Thundershower~Heavy rain,Northeast Wind,1-2,44,Excellent,1
+2018-07-12,27℃,22℃,Cloudy,South Wind,1-2,46,Excellent,1
+2018-07-13,28℃,23℃,Thundershower,East Wind,1-2,60,Good,2
+2018-07-14,31℃,24℃,Thundershower~Cloudy,Southeast Wind,1-2,73,Good,2
+2018-07-15,32℃,25℃,Thundershower,South Wind,1-2,87,Good,2
+2018-07-16,31℃,24℃,Moderate rain~Thundershower,South Wind,1-2,43,Excellent,1
+2018-07-17,27℃,23℃,Moderate rain~Thundershower,West Wind,1-2,28,Excellent,1
+2018-07-18,33℃,25℃,Cloudy,South Wind,1-2,99,Good,2
+2018-07-19,33℃,27℃,Cloudy~Thundershower,South Wind,1-2,91,Good,2
+2018-07-20,33℃,27℃,Cloudy,Southwest Wind,3-4,116,Light Pollution,3
+2018-07-21,34℃,26℃,Cloudy~Thundershower,South Wind,3-4,96,Good,2
+2018-07-22,34℃,25℃,Cloudy,Southeast Wind,1-2,66,Good,2
+2018-07-23,32℃,25℃,Light rain~Heavy rain,East Wind,1-2,75,Good,2
+2018-07-24,28℃,26℃,Rainstorm~Thundershower,Northeast Wind,3-4,29,Excellent,1
+2018-07-25,32℃,25℃,Cloudy,North Wind,1-2,28,Excellent,1
+2018-07-26,33℃,25℃,Cloudy~Thundershower,Northeast Wind,1-2,40,Excellent,1
+2018-07-27,32℃,23℃,Cloudy,Northeast Wind,1-2,65,Good,2
+2018-07-28,33℃,24℃,Cloudy~Sunny,Southeast Wind,1-2,83,Good,2
+2018-07-29,33℃,25℃,Cloudy,Southeast Wind,1-2,101,Light Pollution,3
+2018-07-30,34℃,25℃,Sunny,Southeast Wind,1-2,104,Light Pollution,3
+2018-07-31,35℃,26℃,Sunny,South Wind,1-2,99,Good,2
+2018-08-01,35℃,27℃,Cloudy~Thundershower,Southeast Wind,1-2,91,Good,2
+2018-08-02,36℃,26℃,Cloudy~Sunny,South Wind,1-2,118,Light Pollution,3
+2018-08-03,36℃,26℃,Sunny,South Wind,1-2,86,Good,2
+2018-08-04,36℃,27℃,Sunny~Cloudy,South Wind,1-2,96,Good,2
+2018-08-05,35℃,25℃,Thundershower~Moderate rain,East Wind,1-2,61,Good,2
+2018-08-06,30℃,25℃,Light rain~Thundershower,East Wind,1-2,52,Good,2
+2018-08-07,29℃,24℃,Thundershower~Moderate rain,Southeast Wind,1-2,85,Good,2
+2018-08-08,29℃,24℃,Thundershower~Overcast,Northeast Wind,1-2,45,Excellent,1
+2018-08-09,30℃,24℃,Cloudy,South Wind,1-2,49,Excellent,1
+2018-08-10,33℃,25℃,Cloudy~Thundershower,South Wind,1-2,71,Good,2
+2018-08-11,30℃,23℃,Thundershower~Moderate rain,East Wind,1-2,60,Good,2
+2018-08-12,30℃,24℃,Thundershower,Southeast Wind,1-2,74,Good,2
+2018-08-13,31℃,24℃,Thundershower~Moderate rain,Northeast Wind,1-2,62,Good,2
+2018-08-14,29℃,24℃,Moderate rain~Light Rain,Northeast Wind,1-2,42,Excellent,1
+2018-08-15,32℃,24℃,Cloudy,Northeast Wind,3-4,33,Excellent,1
+2018-08-16,30℃,21℃,Sunny~Cloudy,Northeast Wind,1-2,40,Excellent,1
+2018-08-17,30℃,22℃,Cloudy~Thundershower,Southeast Wind,1-2,69,Good,2
+2018-08-18,28℃,23℃,Light rain~Moderate rain,North Wind,3-4,40,Excellent,1
+2018-08-19,26℃,23℃,Moderate rain~Light Rain,Northeast Wind,1-2,37,Excellent,1
+2018-08-20,32℃,23℃,Cloudy~Sunny,North Wind,1-2,41,Excellent,1
+2018-08-21,32℃,22℃,Cloudy,North Wind,1-2,38,Excellent,1
+2018-08-22,28℃,21℃,Thundershower~Cloudy,Southwest Wind,1-2,48,Excellent,1
+2018-08-23,31℃,21℃,Cloudy,North Wind,1-2,43,Excellent,1
+2018-08-24,30℃,20℃,Sunny,North Wind,1-2,40,Excellent,1
+2018-08-25,31℃,22℃,Cloudy~Light rain,South Wind,1-2,62,Good,2
+2018-08-26,31℃,22℃,Thundershower,Southeast Wind,1-2,76,Good,2
+2018-08-27,30℃,22℃,Cloudy~Thundershower,Southeast Wind,1-2,89,Good,2
+2018-08-28,29℃,22℃,Light rain~Cloudy,South Wind,1-2,58,Good,2
+2018-08-29,31℃,20℃,Sunny~Cloudy,North Wind,3-4,44,Excellent,1
+2018-08-30,29℃,20℃,Cloudy,South Wind,1-2,47,Excellent,1
+2018-08-31,29℃,20℃,Cloudy~Overcast,Southeast Wind,1-2,48,Excellent,1
+2018-09-01,27℃,19℃,Overcast~Light rain,South Wind,1-2,50,Excellent,1
+2018-09-02,27℃,19℃,Light rain~Cloudy,South Wind,1-2,55,Good,2
+2018-09-03,30℃,19℃,Sunny,North Wind,3-4,70,Good,2
+2018-09-04,31℃,18℃,Sunny,Southwest Wind,3-4,24,Excellent,1
+2018-09-05,31℃,19℃,Sunny~Cloudy,Southwest Wind,3-4,34,Excellent,1
+2018-09-06,27℃,18℃,Cloudy~Sunny,Northwest Wind,4-5,37,Excellent,1
+2018-09-07,27℃,16℃,Sunny,Northwest Wind,3-4,22,Excellent,1
+2018-09-08,27℃,15℃,Cloudy~Sunny,North Wind,1-2,28,Excellent,1
+2018-09-09,28℃,16℃,Sunny,Southwest Wind,1-2,51,Good,2
+2018-09-10,28℃,19℃,Cloudy,South Wind,1-2,65,Good,2
+2018-09-11,26℃,19℃,Cloudy,South Wind,1-2,68,Good,2
+2018-09-12,29℃,19℃,Cloudy,South Wind,1-2,59,Good,2
+2018-09-13,29℃,20℃,Cloudy~Overcast,South Wind,1-2,107,Light Pollution,3
+2018-09-14,28℃,19℃,Light rain~Cloudy,South Wind,1-2,128,Light Pollution,3
+2018-09-15,26℃,15℃,Cloudy,North Wind,3-4,42,Excellent,1
+2018-09-16,25℃,14℃,Cloudy~Sunny,North Wind,1-2,29,Excellent,1
+2018-09-17,27℃,17℃,Cloudy~Overcast,North Wind,1-2,37,Excellent,1
+2018-09-18,25℃,17℃,Overcast~Cloudy,Southwest Wind,1-2,50,Excellent,1
+2018-09-19,26℃,17℃,Cloudy,South Wind,1-2,52,Good,2
+2018-09-20,27℃,16℃,Cloudy,Southwest Wind,1-2,63,Good,2
+2018-09-21,25℃,14℃,Sunny,Northwest Wind,3-4,50,Excellent,1
+2018-09-22,24℃,13℃,Sunny,Northwest Wind,3-4,28,Excellent,1
+2018-09-23,23℃,12℃,Sunny,Northwest Wind,4-5,28,Excellent,1
+2018-09-24,23℃,11℃,Sunny,North Wind,1-2,28,Excellent,1
+2018-09-25,24℃,12℃,Sunny~Cloudy,South Wind,1-2,44,Excellent,1
+2018-09-26,24℃,14℃,Cloudy,South Wind,1-2,53,Good,2
+2018-09-27,22℃,12℃,Light rain,South Wind,1-2,84,Good,2
+2018-09-28,24℃,11℃,Cloudy,Southwest Wind,3-4,84,Good,2
+2018-09-29,22℃,11℃,Sunny,North Wind,3-4,21,Excellent,1
+2018-09-30,19℃,13℃,Cloudy,Northwest Wind,4-5,22,Excellent,1
+2018-10-01,24℃,12℃,Sunny,North Wind,4-5,25,Excellent,1
+2018-10-02,24℃,11℃,Sunny,Northwest Wind,1-2,31,Excellent,1
+2018-10-03,25℃,10℃,Sunny,North Wind,1-2,36,Excellent,1
+2018-10-04,25℃,12℃,Sunny,South Wind,1-2,65,Good,2
+2018-10-05,24℃,14℃,Cloudy,South Wind,1-2,105,Light Pollution,3
+2018-10-06,20℃,8℃,Sunny,North Wind,4-5,32,Excellent,1
+2018-10-07,21℃,7℃,Sunny,West Wind,1-2,35,Excellent,1
+2018-10-08,21℃,8℃,Cloudy,North Wind,1-2,37,Excellent,1
+2018-10-09,15℃,4℃,Cloudy~Sunny,Northwest Wind,4-5,21,Excellent,1
+2018-10-10,17℃,4℃,Cloudy~Sunny,Northwest Wind,1-2,25,Excellent,1
+2018-10-11,18℃,5℃,Sunny~Cloudy,North Wind,1-2,30,Excellent,1
+2018-10-12,20℃,8℃,Cloudy~Sunny,South Wind,1-2,62,Good,2
+2018-10-13,20℃,8℃,Cloudy,Northwest Wind,1-2,106,Light Pollution,3
+2018-10-14,21℃,10℃,Cloudy,South Wind,1-2,177,Moderate Pollution,4
+2018-10-15,17℃,11℃,Light rain,North Wind,1-2,198,Moderate Pollution,4
+2018-10-16,17℃,7℃,Cloudy~Sunny,Northeast Wind,1-2,88,Good,2
+2018-10-17,17℃,5℃,Sunny,North Wind,1-2,54,Good,2
+2018-10-18,18℃,5℃,Sunny,South Wind,1-2,49,Excellent,1
+2018-10-19,19℃,7℃,Cloudy,South Wind,1-2,60,Good,2
+2018-10-20,18℃,7℃,Cloudy,South Wind,1-2,86,Good,2
+2018-10-21,18℃,7℃,Cloudy,South Wind,1-2,143,Light Pollution,3
+2018-10-22,19℃,5℃,Cloudy~Sunny,Northwest Wind,1-2,176,Moderate Pollution,4
+2018-10-23,19℃,4℃,Sunny,Southwest Wind,3-4,37,Excellent,1
+2018-10-24,20℃,6℃,Sunny~Cloudy,South Wind,1-2,70,Good,2
+2018-10-25,15℃,8℃,Cloudy,West Wind,1-2,119,Light Pollution,3
+2018-10-26,14℃,3℃,Sunny,Northwest Wind,4-5,46,Excellent,1
+2018-10-27,17℃,5℃,Cloudy,Southwest Wind,1-2,33,Excellent,1
+2018-10-28,17℃,4℃,Cloudy~Sunny,Northwest Wind,4-5,32,Excellent,1
+2018-10-29,15℃,3℃,Sunny,North Wind,3-4,22,Excellent,1
+2018-10-30,16℃,1℃,Sunny,North Wind,1-2,33,Excellent,1
+2018-10-31,17℃,3℃,Sunny,Southwest Wind,1-2,47,Excellent,1
+2018-11-01,17℃,3℃,Sunny,South Wind,1-2,69,Good,2
+2018-11-02,18℃,4℃,Sunny,South Wind,1-2,149,Light Pollution,3
+2018-11-03,16℃,6℃,Cloudy,South Wind,1-2,206,Heavy Pollution,5
+2018-11-04,10℃,2℃,Light rain~Cloudy,North Wind,3-4,115,Light Pollution,3
+2018-11-05,10℃,2℃,Cloudy,Southwest Wind,1-2,30,Excellent,1
+2018-11-06,12℃,0℃,Cloudy,North Wind,1-2,33,Excellent,1
+2018-11-07,13℃,3℃,Cloudy,Southwest Wind,1-2,49,Excellent,1
+2018-11-08,14℃,2℃,Cloudy,Southwest Wind,1-2,90,Good,2
+2018-11-09,15℃,1℃,Sunny~Cloudy,North Wind,3-4,69,Good,2
+2018-11-10,11℃,0℃,Cloudy,North Wind,1-2,35,Excellent,1
+2018-11-11,13℃,1℃,Cloudy~Sunny,Southwest Wind,1-2,70,Good,2
+2018-11-12,14℃,2℃,Sunny,South Wind,1-2,124,Light Pollution,3
+2018-11-13,13℃,5℃,Cloudy,Southeast Wind,1-2,219,Heavy Pollution,5
+2018-11-14,13℃,5℃,Cloudy,South Wind,1-2,266,Heavy Pollution,5
+2018-11-15,8℃,1℃,Light rain~Cloudy,North Wind,3-4,100,Good,2
+2018-11-16,8℃,-1℃,Sunny~Cloudy,North Wind,1-2,28,Excellent,1
+2018-11-17,9℃,-2℃,Cloudy~Sunny,Southwest Wind,1-2,66,Good,2
+2018-11-18,11℃,-3℃,Sunny,Northwest Wind,3-4,70,Good,2
+2018-11-19,10℃,-2℃,Sunny~Cloudy,South Wind,1-2,78,Good,2
+2018-11-20,9℃,-1℃,Cloudy,North Wind,1-2,74,Good,2
+2018-11-21,9℃,-3℃,Sunny,Northwest Wind,2,43,Excellent,1
+2018-11-22,8℃,-3℃,Sunny~Cloudy,Southeast Wind,1,55,Good,2
+2018-11-23,7℃,0℃,Cloudy,Northeast Wind,2,93,Good,2
+2018-11-24,9℃,-3℃,Sunny,Southwest Wind,1,114,Light Pollution,3
+2018-11-25,10℃,-3℃,Sunny,Southeast Wind,1,120,Light Pollution,3
+2018-11-26,10℃,0℃,Cloudy,Southeast Wind,1,245,Heavy Pollution,5
+2018-11-27,9℃,-3℃,Sunny~Cloudy,Northwest Wind,2,198,Moderate Pollution,4
+2018-11-28,8℃,-3℃,Sunny,Northeast Wind,1,115,Light Pollution,3
+2018-11-29,7℃,-4℃,Sunny,Southeast Wind,1,107,Light Pollution,3
+2018-11-30,8℃,-3℃,Sunny,Southeast Wind,1,123,Light Pollution,3
+2018-12-01,7℃,0℃,Cloudy,Southeast Wind,1,163,Moderate Pollution,4
+2018-12-02,9℃,2℃,Fog~Cloudy,Northeast Wind,1,234,Heavy Pollution,5
+2018-12-03,8℃,-3℃,Cloudy~Sunny,Northeast Wind,3,198,Moderate Pollution,4
+2018-12-04,4℃,-6℃,Sunny~Cloudy,Northwest Wind,2,61,Good,2
+2018-12-05,1℃,-4℃,Overcast~Cloudy,Southeast Wind,1,73,Good,2
+2018-12-06,-2℃,-9℃,Sunny,Northwest Wind,3,40,Excellent,1
+2018-12-07,-4℃,-10℃,Sunny,Northwest Wind,3,33,Excellent,1
+2018-12-08,-2℃,-10℃,Sunny~Cloudy,Northwest Wind,2,37,Excellent,1
+2018-12-09,-1℃,-10℃,Cloudy~Sunny,Southeast Wind,1,62,Good,2
+2018-12-10,1℃,-6℃,Cloudy,Northeast Wind,1,79,Good,2
+2018-12-11,-1℃,-10℃,Sunny,Northwest Wind,3,56,Good,2
+2018-12-12,1℃,-8℃,Sunny,Southwest Wind,1,50,Excellent,1
+2018-12-13,3℃,-7℃,Sunny,Northwest Wind,2,42,Excellent,1
+2018-12-14,4℃,-6℃,Sunny,Southeast Wind,1,68,Good,2
+2018-12-15,2℃,-6℃,Haze,Southeast Wind,1,117,Light Pollution,3
+2018-12-16,7℃,-4℃,Sunny,Northwest Wind,2,108,Light Pollution,3
+2018-12-17,7℃,-5℃,Sunny,Northwest Wind,2,47,Excellent,1
+2018-12-18,9℃,-4℃,Sunny,Northwest Wind,2,53,Good,2
+2018-12-19,9℃,-5℃,Sunny~Cloudy,Northwest Wind,1,59,Good,2
+2018-12-20,6℃,-4℃,Haze,Southeast Wind,1,78,Good,2
+2018-12-21,10℃,-2℃,Sunny~Cloudy,Northwest Wind,1,98,Good,2
+2018-12-22,8℃,-6℃,Cloudy,Northwest Wind,2,106,Light Pollution,3
+2018-12-23,1℃,-9℃,Sunny,Northwest Wind,3,106,Light Pollution,3
+2018-12-24,2℃,-8℃,Sunny,Southwest Wind,1,106,Light Pollution,3
+2018-12-25,2℃,-9℃,Sunny,Northeast Wind,2,94,Good,2
+2018-12-26,-2℃,-11℃,Sunny~Cloudy,Northeast Wind,2,26,Excellent,1
+2018-12-27,-5℃,-12℃,Cloudy~Sunny,Northwest Wind,3,48,Excellent,1
+2018-12-28,-3℃,-11℃,Sunny,Northwest Wind,3,40,Excellent,1
+2018-12-29,-3℃,-12℃,Sunny,Northwest Wind,2,29,Excellent,1
+2018-12-30,-2℃,-11℃,Sunny~Cloudy,Northeast Wind,1,31,Excellent,1
+2018-12-31,-2℃,-10℃,Cloudy,Northeast Wind,1,56,Good,2
